@@ -1,0 +1,12 @@
+Company budget: 90000.0
+
+John Holl(manager): 11214.953271028036
+Ann Holl(specialist): 7009.345794392523
+Anton Holl(specialist): 7009.345794392523
+Bogdan Holl(manager): 12056.07476635514
+Alexander Holl(manager): 11214.953271028036
+Sergei Holl(manager): 11635.514018691589
+Peter Holl(manager): 11635.514018691589
+Andrew Holl(specialist): 7009.345794392523
+Tet Holl(secretary): 4205.607476635514
+Antan Holl(specialist): 7009.345794392523

@@ -1,0 +1,33 @@
+Mon Sep 28 10:33:52 EEST 2015
+java.lang.NumberFormatException
+model.distribution.Distribution.distributeSalary(Distribution.java:48)
+model.Company.calculateSalary(Company.java:143)
+controller.Main.main(Main.java:26)
+
+Mon Sep 28 10:35:23 EEST 2015
+java.lang.ArrayIndexOutOfBoundsException: 3
+model.Company.calculateSalary(Company.java:143)
+controller.Main.main(Main.java:26)
+
+Mon Sep 28 11:21:24 EEST 2015
+java.io.NotSerializableException: model.position.Specialist
+java.io.ObjectOutputStream.writeObject0(Unknown Source)
+java.io.ObjectOutputStream.writeObject(Unknown Source)
+controller.Main.main(Main.java:36)
+
+
+
+Tue Sep 29 12:23:12 EEST 2015
+java.lang.ClassNotFoundException: controller.persistence.binary.TxtLoader
+java.net.URLClassLoader$1.run(Unknown Source)
+java.net.URLClassLoader$1.run(Unknown Source)
+java.security.AccessController.doPrivileged(Native Method)
+java.net.URLClassLoader.findClass(Unknown Source)
+java.lang.ClassLoader.loadClass(Unknown Source)
+sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+java.lang.ClassLoader.loadClass(Unknown Source)
+java.lang.Class.forName0(Native Method)
+java.lang.Class.forName(Unknown Source)
+controller.persistence.LoaderFactory.getInstance(DAOFactory.java:13)
+controller.Main.main(Main.java:19)
+
